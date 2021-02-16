@@ -1,0 +1,12 @@
+{
+    "widgets": [
+        {
+            "id": 1,
+            "value": "Hola"
+        },
+        {
+            "id": 2,
+            "value": "Hola"
+        }
+    ]
+}
